@@ -4,7 +4,6 @@ const peliculas = [
     { titulo: "Coco", anio: 2017, genero: "Animación" },
     { titulo: "Avengers: Endgame", anio: 2019, genero: "Acción" },
     { titulo: "Volver al Futuro", anio: 1985, genero: "Ciencia ficción" }
-    { titulo: "El Padrino", anio: 1972, genero: "Drama" }
 ];
 
 const contenedorTarjetas = document.getElementById("contenedor-tarjetas");
