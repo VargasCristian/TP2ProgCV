@@ -4,7 +4,11 @@ const meriendas = [
     "Galletitas de chocolate",
     "Alfajores",
     "Budín de limón",
-    "Yogur con cereales"
+    "Yogur con cereales",
+    "Sándwich de jamón y queso",
+    "Tarta de manzana",
+    "Panqueques con dulce de leche",
+    "Ensalada de frutas"
 ];
 
 
